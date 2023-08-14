@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArjunSinha1027
-- 👀 I’m interested in ..python,java,c++.
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java,
+- 🌱 I’m currently learning java
 - 📫 How to reach me ..arjunsinha141@gmail.com.
 
 <!---
